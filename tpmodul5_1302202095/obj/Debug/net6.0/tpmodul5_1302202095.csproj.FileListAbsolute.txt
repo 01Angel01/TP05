@@ -1,0 +1,15 @@
+C:\Users\angel\source\repos\tpmodul5_1302202095\tpmodul5_1302202095\obj\Debug\net6.0\tpmodul5_1302202095.csproj.AssemblyReference.cache
+C:\Users\angel\source\repos\tpmodul5_1302202095\tpmodul5_1302202095\obj\Debug\net6.0\tpmodul5_1302202095.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\source\repos\tpmodul5_1302202095\tpmodul5_1302202095\obj\Debug\net6.0\tpmodul5_1302202095.AssemblyInfoInputs.cache
+C:\Users\angel\source\repos\tpmodul5_1302202095\tpmodul5_1302202095\obj\Debug\net6.0\tpmodul5_1302202095.AssemblyInfo.cs
+C:\Users\angel\source\repos\tpmodul5_1302202095\tpmodul5_1302202095\obj\Debug\net6.0\tpmodul5_1302202095.csproj.CoreCompileInputs.cache
+C:\Users\angel\source\repos\tpmodul5_1302202095\tpmodul5_1302202095\bin\Debug\net6.0\tpmodul5_1302202095.exe
+C:\Users\angel\source\repos\tpmodul5_1302202095\tpmodul5_1302202095\bin\Debug\net6.0\tpmodul5_1302202095.deps.json
+C:\Users\angel\source\repos\tpmodul5_1302202095\tpmodul5_1302202095\bin\Debug\net6.0\tpmodul5_1302202095.runtimeconfig.json
+C:\Users\angel\source\repos\tpmodul5_1302202095\tpmodul5_1302202095\bin\Debug\net6.0\tpmodul5_1302202095.dll
+C:\Users\angel\source\repos\tpmodul5_1302202095\tpmodul5_1302202095\bin\Debug\net6.0\tpmodul5_1302202095.pdb
+C:\Users\angel\source\repos\tpmodul5_1302202095\tpmodul5_1302202095\obj\Debug\net6.0\tpmodul5_1302202095.dll
+C:\Users\angel\source\repos\tpmodul5_1302202095\tpmodul5_1302202095\obj\Debug\net6.0\refint\tpmodul5_1302202095.dll
+C:\Users\angel\source\repos\tpmodul5_1302202095\tpmodul5_1302202095\obj\Debug\net6.0\tpmodul5_1302202095.pdb
+C:\Users\angel\source\repos\tpmodul5_1302202095\tpmodul5_1302202095\obj\Debug\net6.0\tpmodul5_1302202095.genruntimeconfig.cache
+C:\Users\angel\source\repos\tpmodul5_1302202095\tpmodul5_1302202095\obj\Debug\net6.0\ref\tpmodul5_1302202095.dll
