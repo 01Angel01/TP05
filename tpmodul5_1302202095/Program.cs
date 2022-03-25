@@ -11,14 +11,14 @@ namespace tpmodul5_1302202095
     {
         static void Main(String[] args)
         {
-            SayaTubeVideo a = new SayaTubeVideo("Judul video ");
+            SayaTubeVideo a = new SayaTubeVideo("Tutorial Design By Contract – Angelina Yessyca Rahardjo Hadi");
             a.PrintVideoDetails();
             Console.WriteLine();
             a.IncreasePlayCount(5);
             a.PrintVideoDetails();
         }
-
     }
+
     public class SayaTubeVideo
     {
 
@@ -28,6 +28,8 @@ namespace tpmodul5_1302202095
 
         public SayaTubeVideo(string title)
         {
+            Contract.Requires(title != null);
+            Contract.Requires(title.Length < 100);
 
             this.title = title;
             Random random = new Random();
@@ -37,8 +39,17 @@ namespace tpmodul5_1302202095
 
         public void IncreasePlayCount(int count)
         {
-            playCount = playCount + count;
- 
+            try
+            {
+                if (count >= 10000000) throw new Exception("Input penambahan play count maksimal 10.000.000");
+                playCount = playCount + count;
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+
+
         }
 
         public void PrintVideoDetails()
@@ -46,6 +57,7 @@ namespace tpmodul5_1302202095
             Console.WriteLine(id);
             Console.WriteLine(title);
             Console.WriteLine(playCount);
+
         }
     }
 }
